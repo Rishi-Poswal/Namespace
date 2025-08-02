@@ -235,8 +235,8 @@ This project wouldn't be possible without the efforts of the following contribut
 | Contributor | GitHub Profile |
 |-------------|----------------|
 | **Rishiraj Poswal**  | [@Rishi-Poswal](https://github.com/Rishi-Poswal) |
-| **Chirag Baliyan**  | [@Aashish7080](https://github.com/ChiragBaliyan1412) |
-| **Aashish Jha**  | [@ChiragBaliyan1412](https://github.com/Aashish7080) |
+| **Chirag Baliyan**  | [@ChiragBaliyan1412](https://github.com/ChiragBaliyan1412) | 
+| **Aashish Jha**  | [@Aashish7080](https://github.com/Aashish7080) |
 
 ---
 
